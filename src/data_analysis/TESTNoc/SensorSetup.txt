@@ -1,0 +1,12 @@
+ledBrightness=110
+sampleAverage=1
+ledMode=2
+sampleRate=200
+pulseWidth=411
+adcRange=16384
+XGyroOffset=-29
+YGyroOffset=41
+ZGyroOffset=17
+XAccelOffset=-3375
+YAccelOffset=2625
+ZAccelOffset=1651
