@@ -7,7 +7,7 @@ Projekt zrealizowany w ramach pracy magisterskiej. Jest to w pełni funkcjonalny
 <div align="center">
   <img src="img/rysunek_23_kot_w_szelkach.png" alt="Kot noszący prototyp urządzenia" width="500"/>
   <br>
-  <em>Rys. 1: Prototyp urządzenia podczas testów z użytkownikiem.</em>
+  <em>Rys. 1: Prototyp urządzenia podczas testów.</em>
 </div>
 
 ---
