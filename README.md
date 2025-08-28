@@ -7,7 +7,7 @@ Projekt zrealizowany w ramach pracy magisterskiej. Jest to w pełni funkcjonalny
 <div align="center">
   <img src="img/rysunek_23_kot_w_szelkach.png" alt="Kot noszący prototyp urządzenia" width="500"/>
   <br>
-  <em>Rys. 1: Prototyp urządzenia podczas testów.</em>
+  <em>Rys. 1. Prototyp urządzenia podczas testów.</em>
 </div>
 
 ---
@@ -32,13 +32,13 @@ Sercem urządzenia jest mikrokontroler **ESP32C6**, który zarządza komunikacj�
 <div align="center">
   <img src="img/rysunek_19_architektura_systemu.png" alt="Schemat blokowy architektury systemu" width="600"/>
   <br>
-  <em>Rys. 2: Schemat blokowy architektury sprzętowej.</em>
+  <em>Rys. 2. Schemat blokowy architektury sprzętowej.</em>
 </div>
 
 <div align="center">
   <img src="img/rysunek_21_pcb.png" alt="Wizualizacja zaprojektowanej płytki PCB" width="700"/>
   <br>
-  <em>Rys. 3: Wizualizacja zaprojektowanej, dwuwarstwowej płytki PCB.</em>
+  <em>Rys. 3. Wizualizacja zaprojektowanej, dwuwarstwowej płytki PCB.</em>
 </div>
 
 ---
@@ -55,7 +55,7 @@ Oprogramowanie mikrokontrolera zostało oparte o system operacyjny czasu rzeczyw
 <div align="center">
   <img src="img/rysunek_24_graf_programu.png" alt="Graf oprogramowania mikrokontrolera" width="600"/>
   <br>
-  <em>Rys. 4: Graf oprogramowania mikrokontrolera z podziałem na zadania.</em>
+  <em>Rys. 4. Graf oprogramowania mikrokontrolera z podziałem na zadania.</em>
 </div>
 
 ---
@@ -72,13 +72,13 @@ Zebrane dane są przetwarzane offline za pomocą skryptów w języku Python.
 <div align="center">
   <img src="img/rysunek_26_macierz_pomylek.png" alt="Macierz pomyłek modelu Random Forest" width="500"/>
   <br>
-  <em>Rys. 5: Macierz pomyłek dla 9-osiowego modelu Lasu Losowego.</em>
+  <em>Rys. 5. Macierz pomyłek dla 9-osiowego modelu Lasu Losowego.</em>
 </div>
 
 <div align="center">
   <img src="img/rysunek_28_wykres_aktywnosci.png" alt="Wynikowy wykres klasyfikacji aktywności" width="800"/>
   <br>
-  <em>Rys. 6: Wykres sygnałów z akcelerometru z nałożonymi wynikami automatycznej klasyfikacji.</em>
+  <em>Rys. 6. Wykres sygnałów z akcelerometru z nałożonymi wynikami automatycznej klasyfikacji.</em>
 </div>
 
 #### Analiza Tętna i Oddechu
